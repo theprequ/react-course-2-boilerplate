@@ -1,0 +1,6 @@
+node_modules/
+public/dist/
+src/playground/
+yarn-error.log
+.env.test
+.env.development
